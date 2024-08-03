@@ -1,0 +1,96 @@
+data received： aaaaaaaaaaaaaaaaaaaa
+data received： bbbbbbbbbbbbbbbbbbbb
+data received： cccccccccccccccccccc
+window full, new message is dropped: dddddddddddddddddddd
+window full, new message is dropped: eeeeeeeeeeeeeeeeeeee
+window full, new message is dropped: ffffffffffffffffffff
+window full, new message is dropped: gggggggggggggggggggg
+window full, new message is dropped: hhhhhhhhhhhhhhhhhhhh
+window full, new message is dropped: iiiiiiiiiiiiiiiiiiii
+window full, new message is dropped: jjjjjjjjjjjjjjjjjjjj
+window full, new message is dropped: kkkkkkkkkkkkkkkkkkkk
+window full, new message is dropped: llllllllllllllllllll
+data received： mmmmmmmmmmmmmmmmmmmm
+data received： nnnnnnnnnnnnnnnnnnnn
+data received： oooooooooooooooooooo
+window full, new message is dropped: pppppppppppppppppppp
+window full, new message is dropped: qqqqqqqqqqqqqqqqqqqq
+window full, new message is dropped: rrrrrrrrrrrrrrrrrrrr
+window full, new message is dropped: ssssssssssssssssssss
+window full, new message is dropped: tttttttttttttttttttt
+window full, new message is dropped: uuuuuuuuuuuuuuuuuuuu
+window full, new message is dropped: vvvvvvvvvvvvvvvvvvvv
+window full, new message is dropped: wwwwwwwwwwwwwwwwwwww
+window full, new message is dropped: xxxxxxxxxxxxxxxxxxxx
+window full, new message is dropped: yyyyyyyyyyyyyyyyyyyy
+data received： zzzzzzzzzzzzzzzzzzzz
+data received： aaaaaaaaaaaaaaaaaaaa
+data received： bbbbbbbbbbbbbbbbbbbb
+window full, new message is dropped: cccccccccccccccccccc
+window full, new message is dropped: dddddddddddddddddddd
+simulation complete
+===========STATISTICS==========
+ Total Number of Messages Sent                 ->  3733
+ Total Number of Retransmissions               ->  3715
+   Total Number of Retransmitted Data Packets  ->  3576
+   Total Number of Retransmitted ACKs          ->  139
+ Total Number of Lost Packets                  ->  2955
+   Total Number of Lost Data Packets           ->  2833
+   Total Number of Lost ACKs                   ->  122
+ Total Number of Dropped Packets               ->  787
+   Total Number of Dropped Data Packets        ->  764
+   Total Number of Dropped ACKs                ->  23
+ Total Number of Corrupted Packets             ->  627
+   Total Number of Corrupted Data Packets      ->  604
+   Total Number of Corrupted ACKs              ->  23
+ Final Simulation Time                         ->  40438.179139338405
+===========STATISTICS==========
+
+data received： aaaaaaaaaaaaaaaaaaaa
+data received： bbbbbbbbbbbbbbbbbbbb
+data received： cccccccccccccccccccc
+data received： dddddddddddddddddddd
+data received： eeeeeeeeeeeeeeeeeeee
+data received： ffffffffffffffffffff
+data received： gggggggggggggggggggg
+data received： hhhhhhhhhhhhhhhhhhhh
+data received： iiiiiiiiiiiiiiiiiiii
+data received： jjjjjjjjjjjjjjjjjjjj
+data received： kkkkkkkkkkkkkkkkkkkk
+data received： llllllllllllllllllll
+data received： mmmmmmmmmmmmmmmmmmmm
+data received： nnnnnnnnnnnnnnnnnnnn
+data received： oooooooooooooooooooo
+data received： pppppppppppppppppppp
+data received： qqqqqqqqqqqqqqqqqqqq
+data received： rrrrrrrrrrrrrrrrrrrr
+data received： ssssssssssssssssssss
+data received： tttttttttttttttttttt
+data received： uuuuuuuuuuuuuuuuuuuu
+data received： vvvvvvvvvvvvvvvvvvvv
+data received： wwwwwwwwwwwwwwwwwwww
+data received： xxxxxxxxxxxxxxxxxxxx
+data received： yyyyyyyyyyyyyyyyyyyy
+data received： zzzzzzzzzzzzzzzzzzzz
+data received： aaaaaaaaaaaaaaaaaaaa
+data received： bbbbbbbbbbbbbbbbbbbb
+data received： cccccccccccccccccccc
+data received： dddddddddddddddddddd
+simulation complete
+===========STATISTICS==========
+ Total Number of Messages Sent                 ->  16664
+ Total Number of Retransmissions               ->  16604
+   Total Number of Retransmitted Data Packets  ->  15976
+   Total Number of Retransmitted ACKs          ->  628
+ Total Number of Lost Packets                  ->  13367
+   Total Number of Lost Data Packets           ->  12834
+   Total Number of Lost ACKs                   ->  533
+ Total Number of Dropped Packets               ->  3237
+   Total Number of Dropped Data Packets        ->  3142
+   Total Number of Dropped ACKs                ->  95
+ Total Number of Corrupted Packets             ->  2609
+   Total Number of Corrupted Data Packets      ->  2514
+   Total Number of Corrupted ACKs              ->  95
+ Final Simulation Time                         ->  3004240.7569898223
+===========STATISTICS==========
+
